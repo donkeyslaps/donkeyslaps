@@ -11,7 +11,6 @@
 
 ## :hear_no_evil: I'm currently learning ...
 * [mineOps](https://github.com/KyWa/mineOps) - Learning DevOps tooling with Minecraft Server (by [Kyle Walker](https://github.com/KyWa))
-* [Terraform: The Hard Way](https://github.com/AdminTurnedDevOps/Terraform-The-Hard-Way) - Learning the basics of Terraform (by [Mike Levan](https://github.com/AdminTurnedDevOps))
 
 ## :speak_no_evil: I'm looking to collaborate on ...
 * Anything to do with automation using Ansible or Python
